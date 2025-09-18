@@ -3,7 +3,7 @@ terraform {
     organization = "ravi-panchal-org"
 
     workspaces {
-      name = "aws-s3-bucket"
+      name = "hcp-tf-aws-s3"
     }
   }
 }
